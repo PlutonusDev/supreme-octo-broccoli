@@ -1,0 +1,5 @@
+module.exports = {
+	alpaca_key: "",
+	alpaca_secret: "",
+	token: "" // bot token
+}
